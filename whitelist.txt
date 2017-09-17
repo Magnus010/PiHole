@@ -383,3 +383,4 @@ www.example.com
 mediadiscovery.microsoft.com
 hostsfile.org
 gist.githubusercontent.com
+v10.vortex-win.data.microsoft.com
