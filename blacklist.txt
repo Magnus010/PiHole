@@ -156,7 +156,6 @@ settings.data.glbdns2.microsoft.com
 settings-win.data.microsoft.com
 ssw.live.com
 static.2mdn.net
-v10.vortex-win.data.microsoft.com
 v10.vortex-win.data.metron.live.com.nsatc.net
 view.atdmt.com
 vortex.data.glbdns2.microsoft.com
