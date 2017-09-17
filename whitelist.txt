@@ -193,7 +193,6 @@ www.sandboxie.com
 res.cloudinary.com
 gravatar.com
 rover.ebay.com
-imgs.xkcd.com
 netflix.com
 alluremedia.com.au
 tomshardware.com
@@ -386,4 +385,3 @@ gist.githubusercontent.com
 v10.vortex-win.data.microsoft.com
 watson.telemetry.microsoft.com
 dmd.metaservices.microsoft.com
-xkcd.com
