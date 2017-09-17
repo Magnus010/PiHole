@@ -384,3 +384,5 @@ mediadiscovery.microsoft.com
 hostsfile.org
 gist.githubusercontent.com
 v10.vortex-win.data.microsoft.com
+watson.telemetry.microsoft.com
+dmd.metaservices.microsoft.com

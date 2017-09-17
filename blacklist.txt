@@ -49,8 +49,6 @@ vortex-win.data.microsoft.com
 watson.live.com
 watson.microsoft.com
 watson.ppe.telemetry.microsoft.com
-watson.telemetry.microsoft.com
-watson.telemetry.microsoft.com.nsatc.net
 wes.df.telemetry.microsoft.com
 log-1.samsungacr.com
 log-2.samsungacr.com
