@@ -386,3 +386,4 @@ v10.vortex-win.data.microsoft.com
 watson.telemetry.microsoft.com
 dmd.metaservices.microsoft.com
 solarcity.com
+hottopic.com
