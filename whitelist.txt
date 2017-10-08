@@ -388,3 +388,4 @@ dmd.metaservices.microsoft.com
 solarcity.com
 hottopic.com
 c.apple.com
+origin.com
