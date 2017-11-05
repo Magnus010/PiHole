@@ -397,3 +397,8 @@ click.email.vudu.com
 opm.gov
 a-0001.a-msedge.net
 aadg.windows.net.nsatc.net
+ieonline.microsoft.com
+browser.pipe.aria.microsoft.com
+settings-win.data.microsoft.com
+cy2.settings.data.microsoft.com.akadns.net
+wns.notify.windows.com.akadns.net

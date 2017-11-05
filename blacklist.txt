@@ -150,7 +150,6 @@ schemas.microsoft.akadns.net
 secure.adnxs.com
 secure.flashtalking.com
 settings.data.glbdns2.microsoft.com
-settings-win.data.microsoft.com
 ssw.live.com
 static.2mdn.net
 v10.vortex-win.data.metron.live.com.nsatc.net
