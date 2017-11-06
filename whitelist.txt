@@ -403,3 +403,5 @@ settings-win.data.microsoft.com
 cy2.settings.data.microsoft.com.akadns.net
 wns.notify.windows.com.akadns.net
 social.msdn.microsoft.com
+www.techrepublic.com
+c.microsoft.com
