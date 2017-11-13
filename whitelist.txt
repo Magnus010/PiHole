@@ -406,3 +406,4 @@ social.msdn.microsoft.com
 www.techrepublic.com
 c.microsoft.com
 activity.windows.com
+lifehacker.com
