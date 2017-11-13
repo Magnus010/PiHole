@@ -408,3 +408,4 @@ c.microsoft.com
 activity.windows.com
 lifehacker.com
 gfwsl.geforce.com
+fpdownload.adobe.com
