@@ -410,3 +410,5 @@ lifehacker.com
 gfwsl.geforce.com
 fpdownload.adobe.com
 giphy.com
+rafsanjani.gov
+fafsa.gov
