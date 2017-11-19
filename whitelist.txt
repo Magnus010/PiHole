@@ -409,3 +409,4 @@ activity.windows.com
 lifehacker.com
 gfwsl.geforce.com
 fpdownload.adobe.com
+giphy.com
