@@ -411,3 +411,5 @@ gfwsl.geforce.com
 fpdownload.adobe.com
 rafsanjani.gov
 fafsa.gov
+email.vudu.com
+vudu.com
