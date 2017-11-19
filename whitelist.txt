@@ -409,3 +409,5 @@ activity.windows.com
 lifehacker.com
 gfwsl.geforce.com
 fpdownload.adobe.com
+rafsanjani.gov
+fafsa.gov
