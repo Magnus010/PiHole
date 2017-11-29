@@ -426,3 +426,5 @@ akamaihd.net
 fbcdn.net
 fb.me
 fbsbx.com
+gwu.edu
+download.cnet.com
