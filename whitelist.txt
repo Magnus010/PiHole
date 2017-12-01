@@ -428,3 +428,6 @@ fb.me
 fbsbx.com
 gwu.edu
 download.cnet.com
+star.c10r.facebook.com
+b-api.facebook.com
+b-graph.facebook.com

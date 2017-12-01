@@ -164,3 +164,7 @@ vortex-win.data.metron.live.com.nsatc.net
 wes.df.telemetry.microsoft.comnet
 a-0011.a-msedge.net
 vortex.data.microsoft.com
+api.smoot.apple.com
+api-glb.smoot.apple.com
+briskads.affise.com
+briskads.go2affise.com
