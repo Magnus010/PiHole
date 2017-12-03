@@ -431,3 +431,15 @@ download.cnet.com
 star.c10r.facebook.com
 b-api.facebook.com
 b-graph.facebook.com
+netdna.bootstrapcdn.com
+connect.facebook.net
+cdnjs.cloudflare.com
+cloudflare.com
+zendesk.com
+www.gravatar.com
+www.directly.com
+cdn.mxpnl.com
+can.mxpnl.com
+mixpanel.com.edgekey.net
+www.rev.com
+embed.wistia.com
