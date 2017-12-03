@@ -443,3 +443,5 @@ can.mxpnl.com
 mixpanel.com.edgekey.net
 www.rev.com
 embed.wistia.com
+fullstory.com
+fast.wistia.com
