@@ -448,3 +448,4 @@ fast.wistia.com
 distillery.wistia.com
 pipedream.wistia.com
 airdownload.adobe.com
+humblebundle.com
