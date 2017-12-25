@@ -168,3 +168,4 @@ api.smoot.apple.com
 api-glb.smoot.apple.com
 briskads.affise.com
 briskads.go2affise.com
+e.reddit.com
