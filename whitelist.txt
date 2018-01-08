@@ -475,3 +475,4 @@ staticxx.facebook.com
 5-edge-chat.facebook.com
 developers.facebook.com
 edge-chat.facebook.com
+prod.imgur.map.fastlylb.net
