@@ -476,3 +476,4 @@ staticxx.facebook.com
 developers.facebook.com
 edge-chat.facebook.com
 prod.imgur.map.fastlylb.net
+pinchofyum.com
