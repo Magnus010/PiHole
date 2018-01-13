@@ -477,3 +477,5 @@ developers.facebook.com
 edge-chat.facebook.com
 prod.imgur.map.fastlylb.net
 pinchofyum.com
+humblebundle.imgix.net
+global.imgix.map.fastly.net
