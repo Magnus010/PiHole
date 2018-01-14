@@ -479,3 +479,4 @@ prod.imgur.map.fastlylb.net
 pinchofyum.com
 humblebundle.imgix.net
 global.imgix.map.fastly.net
+wdwinfo.com
