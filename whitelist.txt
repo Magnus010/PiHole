@@ -450,3 +450,4 @@ activation-v2.sls.microsoft.com
 xbox.ipv6.microsoft.com
 googleapis.l.google.com
 s3-1.amazonaws.com
+damndelicious.net
