@@ -454,3 +454,4 @@ damndelicious.net
 pubsub1.cloud.symless.com
 pubsub.cloud.symless.com
 symless.com
+jcpenney.com
