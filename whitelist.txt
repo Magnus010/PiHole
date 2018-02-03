@@ -457,3 +457,4 @@ symless.com
 jcpenney.com
 www.aws.training
 cdn.aws.training
+imgs.xkcd.com
