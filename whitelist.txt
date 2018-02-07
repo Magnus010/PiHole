@@ -461,3 +461,4 @@ imgs.xkcd.com
 homedepot.com
 github.com
 oneclient.sfx.ms
+nerdist.com
