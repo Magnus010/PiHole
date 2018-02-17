@@ -465,3 +465,5 @@ nerdist.com
 www.toptenreviews.com
 angryip.org
 slack.com
+players.brightcove.net
+fonts.gstatic.com
