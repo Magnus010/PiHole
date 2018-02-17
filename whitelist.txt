@@ -465,3 +465,8 @@ nerdist.com
 www.toptenreviews.com
 angryip.org
 slack.com
+<<<<<<< HEAD
+=======
+players.brightcove.net
+fonts.gstatic.com
+>>>>>>> bf923e618ce457fb8056fb817ca0dcdec7f1ed9e
