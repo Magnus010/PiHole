@@ -1,0 +1,15 @@
+*.domains
+black.list
+*.conf
+*.log
+*.db
+gravity.list
+GitHubVersions
+list.preEventHorizon
+local.list
+localbranches
+localversions
+logrotate
+rules.v*
+setupVars.conf*
+
