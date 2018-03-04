@@ -92,3 +92,14 @@ http://www.malwaredomainlist.com/hostslist/hosts.txt
 
 https://github.com/chadmayfield/pihole-blocklists/raw/master/lists/pi_blocklist_porn_all.list
 https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
+
+https://raw.githubusercontent.com/CamelCase11/UnifiedHosts/master/hosts.all
+https://raw.githubusercontent.com/Marfjeh/coinhive-block/master/domains
+https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts
+https://gist.githubusercontent.com/r0ckarong/36140c95bc105ee13cdc672baa940ab0/raw/87378f77179722c227b7813faddab53df6a38708/blacklist.txt
+https://smokingwheels.github.io/Pi-hole/allhosts
+https://smokingwheels.github.io/Pi-hole/searchengine
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts
+https://raw.githubusercontent.com/TakoYachty/Gift-Card-Killer/master/giftcardkiller.txt
+https://raw.githubusercontent.com/WindowsLies/BlockWindows/master/hosts
+https://raw.githubusercontent.com/nathanaccidentally/SystemHostsBlocker/master/hosts
