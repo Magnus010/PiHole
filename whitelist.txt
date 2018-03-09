@@ -483,3 +483,5 @@ clientconfig.passport.net
 www.w3schools.com
 it.toolbox.com
 reddit.com
+gmail-smtp-in.l.google.com
+sqs.us-east-1.amazonaws.com
