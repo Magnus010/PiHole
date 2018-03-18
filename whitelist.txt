@@ -486,3 +486,5 @@ reddit.com
 gmail-smtp-in.l.google.com
 sqs.us-east-1.amazonaws.com
 go.redirectingat.com
+assets.adobedtm.com
+nexus.ensighten.com
