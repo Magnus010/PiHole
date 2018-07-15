@@ -465,11 +465,8 @@ nerdist.com
 www.toptenreviews.com
 angryip.org
 slack.com
-<<<<<<< HEAD
-=======
 players.brightcove.net
 fonts.gstatic.com
->>>>>>> bf923e618ce457fb8056fb817ca0dcdec7f1ed9e
 www.adobe.com
 etutorials.org
 www.roblox.com
@@ -488,3 +485,4 @@ sqs.us-east-1.amazonaws.com
 go.redirectingat.com
 assets.adobedtm.com
 nexus.ensighten.com
+lptag.liveperson.net
