@@ -170,3 +170,12 @@ briskads.affise.com
 briskads.go2affise.com
 e.reddit.com
 tracking.campaign-tracking-service.placelocal.com
+events.gfe.nvidia.com
+wpad.lan
+reports.crashlytics.com
+fls-eu.amazon.de
+fls-na.amazon.com
+app-measurement.com
+gate.hockeyapp.net
+settings.crashlytics.com
+app.adjust.com

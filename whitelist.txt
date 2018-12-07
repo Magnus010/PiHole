@@ -441,7 +441,6 @@ download.sonarr.tv
 external-lhr4-1.xx.fbcdn.net
 lego.com
 king.com
-events.gfe.nvidia.com
 giphy.com
 s4.symcb.com
 1-edge-chat.facebook.com
