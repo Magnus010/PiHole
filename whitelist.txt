@@ -313,7 +313,6 @@ storeedgefd.dsx.mp.microsoft.com
 www.googleapis.com
 www.theguardian.com
 click.email.vudu.com
-mobile.pipe.aria.microsoft.com
 notify.xboxlive.com
 bit.ly
 groups.photos.live.com

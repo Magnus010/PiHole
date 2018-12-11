@@ -179,3 +179,10 @@ app-measurement.com
 gate.hockeyapp.net
 settings.crashlytics.com
 app.adjust.com
+cooper.logs.roku.com
+mobile.pipe.aria.microsoft.com
+scribe.logs.roku.com
+device-api.urbanairship.com
+dev.appboy.com
+remote-data.urbanairship.com
+v10.events.data.microsoft.com
