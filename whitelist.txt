@@ -531,3 +531,4 @@ telemetry.urs.microsoft.com
 uhf.microsoft.com
 vortex.data.microsoft.com
 www.msftconnecttest.com
+ip-api.com
