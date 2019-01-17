@@ -156,7 +156,6 @@ hostsfile.org
 www.icloud.com
 officeclient.microsoft.com
 ieonline.microsoft.com
-www.google-analytics.com
 ipv6.excathedra.co
 services.sonarr.tv
 mesh.com
