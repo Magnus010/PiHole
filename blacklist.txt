@@ -84,3 +84,4 @@ static.criteo.net
 www.google-analytics.com
 www.googletagservices.com
 mc.yandex.ru
+device-metrics-us.amazon.com
