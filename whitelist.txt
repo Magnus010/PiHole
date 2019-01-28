@@ -532,3 +532,4 @@ uhf.microsoft.com
 vortex.data.microsoft.com
 www.msftconnecttest.com
 ip-api.com
+app.adjust.com

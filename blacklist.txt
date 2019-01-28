@@ -72,7 +72,6 @@ fls-na.amazon.com
 app-measurement.com
 gate.hockeyapp.net
 settings.crashlytics.com
-app.adjust.com
 cooper.logs.roku.com
 scribe.logs.roku.com
 device-api.urbanairship.com
