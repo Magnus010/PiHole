@@ -534,3 +534,5 @@ www.msftconnecttest.com
 ip-api.com
 app.adjust.com
 cbs.wondershare.com
+oprewarsd.com
+play.heavymetalmachines.com

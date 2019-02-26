@@ -84,3 +84,7 @@ www.google-analytics.com
 www.googletagservices.com
 mc.yandex.ru
 device-metrics-us.amazon.com
+www.ilovesamples.com
+ilovesamples.com
+oprewards.com
+www.oprewards.com
