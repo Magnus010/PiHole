@@ -536,3 +536,4 @@ app.adjust.com
 cbs.wondershare.com
 oprewarsd.com
 play.heavymetalmachines.com
+tags.tiqcdn.com
