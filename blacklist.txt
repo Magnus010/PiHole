@@ -101,3 +101,4 @@ coinhive.com
 cdn.samsungcloudsolution.com
 www.googletagmanager.com
 giga.logs.roku.com
+lcprd1.samsungcloudsolution.net
