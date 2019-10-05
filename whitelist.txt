@@ -540,3 +540,4 @@ tags.tiqcdn.com
 steampowered.com
 gleam.io
 t.paypal.com
+accounts.nvgs.nvidia.com

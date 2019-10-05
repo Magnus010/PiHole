@@ -65,7 +65,6 @@ api.smoot.apple.com
 api-glb.smoot.apple.com
 e.reddit.com
 tracking.campaign-tracking-service.placelocal.com
-events.gfe.nvidia.com
 wpad.lan
 fls-eu.amazon.de
 fls-na.amazon.com
@@ -103,3 +102,4 @@ www.googletagmanager.com
 giga.logs.roku.com
 lcprd1.samsungcloudsolution.net
 pixel.facebook.com
+events.gfe.nvidia.com
