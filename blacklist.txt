@@ -102,4 +102,3 @@ www.googletagmanager.com
 giga.logs.roku.com
 lcprd1.samsungcloudsolution.net
 pixel.facebook.com
-events.gfe.nvidia.com

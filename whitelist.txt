@@ -542,3 +542,4 @@ gleam.io
 t.paypal.com
 accounts.nvgs.nvidia.com
 groupees.com
+events.gfe.nvidia.com
