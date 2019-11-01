@@ -68,9 +68,7 @@ tracking.campaign-tracking-service.placelocal.com
 wpad.lan
 fls-eu.amazon.de
 fls-na.amazon.com
-app-measurement.com
 gate.hockeyapp.net
-settings.crashlytics.com
 cooper.logs.roku.com
 scribe.logs.roku.com
 device-api.urbanairship.com
