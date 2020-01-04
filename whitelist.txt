@@ -559,3 +559,4 @@ ping.taplytics.com
 manifest.53.localytics.com
 ocsp.apple.com
 teredo.ipv6.microsoft.com
+tracking.epicgames.com
