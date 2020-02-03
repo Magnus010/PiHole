@@ -566,3 +566,6 @@ sentry.io
 calibre-ebook.com
 service.maxymiser.net
 shopper.img.digitalrivercontent.net
+akadns.net
+onecollector.cloudapp.aria.akadns.net
+self.events.data.microsoft.com
