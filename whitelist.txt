@@ -656,3 +656,7 @@ yt3.ggpht.com
 zendesk.com
 zeustracker.abuse.ch
 thumbs.gfycat.com
+api.facebook.com
+edge-mqtt.facebook.com
+mqtt.c10r.facebook.com
+portal.fb.com
