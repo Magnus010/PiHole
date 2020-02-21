@@ -661,3 +661,4 @@ edge-mqtt.facebook.com
 mqtt.c10r.facebook.com
 portal.fb.com
 scontent.fgdl5-1.fna.fbcdn.net
+mobile.twitter.com
