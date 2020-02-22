@@ -13,3 +13,5 @@ logrotate
 rules.v*
 setupVars.conf*
 
+dhcp.leases
+whitelist.txt.old
