@@ -841,3 +841,7 @@ zh-hk.fr-fr.developers.prod.facebook.com
 zh-tw.en-pi.prod.facebook.com
 zh-tw.facebook.com
 zh-tw.m.lite.facebook.com
+scontent-dfw5-1.xx.fbcdn.net
+scontent-sea1-1.xx.fbcdn.net
+discover.app.link
+myfitnesspal-alternate.app.link
