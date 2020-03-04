@@ -850,3 +850,5 @@ assets.penny-arcade.com
 app.launchdarkly.com
 fafsa.ed.gov
 fsaesb.ed.gov
+fafsa.ed.gov.edgekey.net
+e6096.dscb.akamaiedge.net
