@@ -49,7 +49,6 @@ app-api.ted.com
 appldnld.apple.com
 apple.com
 appleid.apple.com
-app-measurement.com
 app.plex.tv
 appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
@@ -478,7 +477,6 @@ servicebus.windows.net
 service.maxymiser.net
 services.gfe.nvidia.com
 services.sonarr.tv
-settings.crashlytics.com
 settings.data.microsoft.com
 settings.live.net
 settings-win.data.microsoft.com
@@ -738,7 +736,6 @@ lntecc.m.facebook.com
 lookaside.facebook.com
 m.facebook.com
 mobile.facebook.com
-mqtt-mini.facebook.com
 mqtt-p4.facebook.com
 mqtt.facebook.com
 newsroom.fb.com
@@ -853,3 +850,7 @@ fsaesb.ed.gov
 fafsa.ed.gov.edgekey.net
 e6096.dscb.akamaiedge.net
 patreon.com
+etsy.com
+www.etsy.com
+instagram.c10r.facebook.com
+placebubble.gimbal.com

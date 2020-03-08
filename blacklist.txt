@@ -99,3 +99,10 @@ cdn.samsungcloudsolution.com
 www.googletagmanager.com
 giga.logs.roku.com
 lcprd1.samsungcloudsolution.net
+z.moatads.com
+mqtt-mini.facebook.com
+app-measurement.com
+settings.crashlytics.com
+mads.amazon-adsystem.com
+s.amazon-adsystem.com
+data.flurry.com
