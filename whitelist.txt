@@ -857,3 +857,5 @@ placebubble.gimbal.com
 scontent-lax3-2.xx.fbcdn.net
 scontent-lax3-1.xx.fbcdn.net
 www.dropbox.com
+mediafire.com
+www.mediafire.com
