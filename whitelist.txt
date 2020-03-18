@@ -859,3 +859,6 @@ scontent-lax3-1.xx.fbcdn.net
 www.dropbox.com
 mediafire.com
 www.mediafire.com
+ci.phncdn.com
+cdn1d-static-shared.phncdn.com
+cdn1-smallimg.phncdn.com
