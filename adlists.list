@@ -37,7 +37,7 @@ https://hosts-file.net/ad_servers.txt
 https://v.firebog.net/hosts/Easylist.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts
-https://www.squidblacklist.org/downloads/dg-ads.acl
+#https://www.squidblacklist.org/downloads/dg-ads.acl
 https://v.firebog.net/hosts/Easyprivacy.txt
 https://v.firebog.net/hosts/Prigent-Ads.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
@@ -63,7 +63,7 @@ https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt
 https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 https://v.firebog.net/hosts/Shalla-mal.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
-https://www.squidblacklist.org/downloads/dg-malicious.acl
+#https://www.squidblacklist.org/downloads/dg-malicious.acl
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts
 https://gist.githubusercontent.com/anudeepND/adac7982307fec6ee23605e281a57f1a/raw/5b8582b906a9497624c3f3187a49ebc23a9cf2fb/Test.txt
 #https://zerodot1.gitlab.io/CoinBlockerLists/list.txt
