@@ -106,3 +106,4 @@ settings.crashlytics.com
 mads.amazon-adsystem.com
 s.amazon-adsystem.com
 data.flurry.com
+t2.hulu.com
