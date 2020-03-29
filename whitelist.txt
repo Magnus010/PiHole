@@ -881,3 +881,4 @@ home.hulu.com
 cws-hulu.conviva.com
 auth.hulu.com
 ip.goguardian.com
+assets.huluim.com
