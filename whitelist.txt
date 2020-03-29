@@ -881,3 +881,6 @@ home.hulu.com
 cws-hulu.conviva.com
 auth.hulu.com
 ip.goguardian.com
+cbsinteractive.hb.omtrdc.net
+pubads.g.doubleclick.net
+assets.huluim.com
