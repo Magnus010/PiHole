@@ -888,3 +888,5 @@ pubads.g.doubleclick.net
 >>>>>>> b9438446364dc01d420cc751f847135f865f2938
 assets.huluim.com
 sites.google.com
+xkcd.com
+www.xkcd.com
