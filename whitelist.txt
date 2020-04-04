@@ -890,3 +890,4 @@ assets.huluim.com
 sites.google.com
 xkcd.com
 www.xkcd.com
+s3-us-west-2.amazonaws.com
