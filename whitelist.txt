@@ -906,3 +906,4 @@ apps.nexus.bazaarvoice.com
 api.bazaarvoice.com
 analytics-static.ugc.bazaarvoice.com
 scontent.webcollage.net
+richmedia.channeladvisor.com
