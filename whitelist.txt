@@ -918,4 +918,8 @@ fpt.xbox.com
 live.xbox.com
 =======
 s.btstatic.com
+<<<<<<< HEAD
 >>>>>>> 11c5b1518235b5fec072aaf61f4d7b98b6e10a85
+=======
+redirector.gvt1.com
+>>>>>>> 34e5dd485d6201625e47f3d819ac56827ae8481c
