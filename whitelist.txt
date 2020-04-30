@@ -910,8 +910,12 @@ richmedia.channeladvisor.com
 link.email.dynect.net
 lutris.net
 cm2-iad1.cm.steampowered.com
+<<<<<<< HEAD
 marketplace.xbox.com
 az725175.vo.msecnd.net
 fpt.live-partner.com
 fpt.xbox.com
 live.xbox.com
+=======
+s.btstatic.com
+>>>>>>> 11c5b1518235b5fec072aaf61f4d7b98b6e10a85
