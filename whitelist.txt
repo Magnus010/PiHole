@@ -910,3 +910,8 @@ richmedia.channeladvisor.com
 link.email.dynect.net
 lutris.net
 cm2-iad1.cm.steampowered.com
+marketplace.xbox.com
+az725175.vo.msecnd.net
+fpt.live-partner.com
+fpt.xbox.com
+live.xbox.com

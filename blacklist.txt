@@ -47,7 +47,6 @@ cdn.atdmt.com
 db3aqu.atdmt.com
 ec.atdmt.com
 edge.quantserve.com
-fpt.live-partner.com
 m.adnxs.com
 onesettings-bn2.metron.live.com.nsatc.net
 onesettings-cy2.metron.live.com.nsatc.net
