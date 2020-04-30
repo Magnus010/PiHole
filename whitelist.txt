@@ -910,3 +910,4 @@ richmedia.channeladvisor.com
 link.email.dynect.net
 lutris.net
 cm2-iad1.cm.steampowered.com
+s.btstatic.com
